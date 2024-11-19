@@ -52,8 +52,8 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
-      text: "Some recent publications resulting from my dissertation work and undergraduate thesis."
+      title: Recent Conference Presentations
+      text: "Some recent conference presentations discussing existing publications, as well as new results."
       filters:
         folders:
           - publication
