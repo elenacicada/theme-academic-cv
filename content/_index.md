@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Elena Meyer"
 date: 2022-10-24
 type: landing
 
@@ -32,14 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       I am a PhD Candidate at Virginia Commonwealth University, working in Andrew Eckert’s plant evolutionary genetics labratory. My research interests include the evolution of self-fertilization in plants, the impact of historal climates on present-day species distributions, phylogenetic comparative methods, and science policy and communication. I also teach undergraduate biology labs and enjoy finding new ways to improve student learning in science writing and practial labratory skills.
+    
     design:
       columns: '1'
   - block: collection
