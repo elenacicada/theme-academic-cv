@@ -60,70 +60,53 @@ education:
     date_end: 2019-06-01
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Teaching Assistant (GTA)
+    company_name: Virginia Commonwealth University
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Teaching undergraduate biology labs as the primary point of contact for students. 
+      - Instructing students on scientific writing and academic presentations.
+         
+  - position: Commonwealth of Virginia Engineering and Science (COVES) Fellow
+    company_name: Virginia Department of Environmental Quality (DEQ)
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Acted as a scientific advisor for DEQ during a series of large stakeholder meetings. 
+      - Assisted with facilitation of regulatory advisory groups. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Data analysis and mannagment in R/RStudio
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: Data visualization and communication 
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        percent: 80
+        icon: chart-bar
+      - name: Phylogenetic methods
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+        icon: circle-stack
+ 
 languages:
   - name: English
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Japanese
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -159,4 +142,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Elena M. Meyer is a PhD Candidate in Integrative Life Science at Virginia Commonwealth University. Their research focuses on the evolution of plant mating and reproductive systems. 
